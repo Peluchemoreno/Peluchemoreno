@@ -1,10 +1,5 @@
 ### Hi! I'm Justin McDonald!
 
-<!--
-**Peluchemoreno/Peluchemoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a responsive web app, focusing on Object Oriented Programming and webpack.
 - 🌱 I’m currently learning React.js, Angular.js, and MongoDB
 - 👯 I’m looking to collaborate on any front end JavaScript projects, as I am a passionate learner
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jmcdmoreno19@aol.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm bilingual and play 6 instruments.
--->
+
