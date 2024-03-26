@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jmcdmoreno19@aol.com**
 
-- ⚡ Fun fact **I'm bilingual, and play 6 instruments. I admittedly enjoy trash reality TV.**
+- ⚡ Fun fact **I'm bilingual, play 6 instruments, and I admittedly enjoy trash reality TV.**
 
 <p align="left">
 </p>
