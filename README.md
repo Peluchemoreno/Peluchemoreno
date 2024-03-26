@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I'm bilingual, and play 6 instruments. I admittedly enjoy trash reality TV.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
