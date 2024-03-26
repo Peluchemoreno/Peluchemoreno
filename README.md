@@ -1,4 +1,5 @@
 ### Hi! I'm Justin McDonald!
+---
 
 - 🔭 I’m currently working on a responsive web app, focusing on Object Oriented Programming and webpack.
 - 🌱 I’m currently learning React.js, Angular.js, and MongoDB
