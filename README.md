@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Justin McDonald 😁 </h1>
-<h3 align="center">A passionate web developer, learner, and musician</h3>
+<h3 align="center">A React.js wizard and musician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peluchemoreno&label=Profile%20views&color=0e75b6&style=flat" alt="peluchemoreno" /> </p>
 
-- 🔭 I’m currently working on **React.js, Angular.js, and MongoDB.**
+- 🔭 I’m currently working on **A full stack web application for creating estimates**
 
-- 🌱 I’m currently learning **React.js and Angular.js**
-
-- 👯 I’m looking to collaborate on **any front end JavaScript projects, as I am a passionate learner.**
-
-- 🤝 I’m looking for help with **networking, so if you have any advice, I'm eager to hear you out.**
+- 🌱 I’m currently mastering **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Peluchemoreno](https://github.com/Peluchemoreno)
 
